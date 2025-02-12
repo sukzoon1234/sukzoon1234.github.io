@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Thanks for visiting my website! :smile:
+I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/). at Sejong University. (Advisor: Prof. [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en)).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Embodied AI:** Scene Perception in Robotics, Self-Driving
+- **Robustness:** Domain Adaption/Generalization
+- **Vision-Language Model**
+- **Human-Interactive AI**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2024]** Our paper was accepted to **ICRA 2024**
+- **[Nov. 2023]** Our team got awarded the **3rd Prize** at '[1st Autonomous Driving AI Challenge](https://auto-dna.org/page/?M2_IDX=32625)'. [\[Link\]](assets/files/2024_AI_Challenge.pdf)
+- **[Apr. 2024]** Our paper was accepted to **IEEE Sensors Journal**
+- **[Feb. 2023]** One paper was awarded the **Best Paper** at the 35th Workshop on Image Processing and Image Understanding (IPIU)
 
 {% include_relative _includes/publications.md %}
 
