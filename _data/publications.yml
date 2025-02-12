@@ -2,7 +2,7 @@ main:
 
   - title: "Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation"
     authors: <strong>Seokjun Kwon*</strong>, Jeongmin Shin*, Namil Kim, Soonmin Hwang, and Yukyung Choi
-    conference_short: IEEE Sensors
+    conference_short: ICRA
     conference: International Conference on Robotics and Automation <strong>(ICRA)</strong> , 2025.
     pdf: 
     code: 
