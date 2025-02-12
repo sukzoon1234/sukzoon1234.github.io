@@ -16,8 +16,8 @@ I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.
 
 ## News
 
-- **[Jan. 2024]** Our paper was accepted to **ICRA 2025**
-- **[Nov. 2023]** I got awarded the **3rd Prize** at '[1st Autonomous Driving AI Challenge](https://auto-dna.org/page/?M2_IDX=32625)'. [\[Link\]](assets/files/2024_AI_Challenge.pdf)
+- **[Jan. 2025]** Our paper was accepted to **ICRA 2025**
+- **[Nov. 2024]** I got awarded the **3rd Prize** at '[1st Autonomous Driving AI Challenge](https://auto-dna.org/page/?M2_IDX=32625)'. [\[Link\]](assets/files/2024_AI_Challenge.pdf)
 - **[Apr. 2024]** Our paper was accepted to **IEEE Sensors Journal**
 - **[Feb. 2023]** One paper was awarded the **Best Paper** at the IPIU 2023
 
