@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Thanks for visiting my website! :smile:
+Thanks for visiting my website!
 I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/). at Sejong University. (Advisor: Prof. [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en)).
 
 ## Research Interests
