@@ -13,7 +13,7 @@ main:
     conference_short: ICCAS
     conference: International Conference on Control, Automation and Systems (ICCAS) , 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10773092
-    code: https://github.com/sejong-rcv/UMHE
+    code: 
     image: ./assets/img/publications/iccas.png
     
   - title: "UMHE: Unsupervised Multispectral Homography Estimation"
