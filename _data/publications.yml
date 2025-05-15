@@ -29,6 +29,6 @@ main:
     authors: <strong>Seokjun Kwon</strong>, Jeongmin Shin, Daechan Han, and Yukyung Choi
     conference_short: IPIU
     conference: 35th Workshop on Image Processing and Image Understanding (IPIU). 2023. 
-    pdf: ./assets/files/ipiu_paper.pdf
+    pdf: 
     image: ./assets/img/publications/ipiu.png
     notes: Bronze Prize, <strong>Best Paper Award</strong>
