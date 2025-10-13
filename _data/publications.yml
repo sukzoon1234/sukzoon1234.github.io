@@ -1,5 +1,14 @@
 main:
 
+  - title: "ContraText-DETR: Boosting Industrial Scene Text Detection Based on Contrastive Learning and Synthetic Low-Contrast Text"
+    authors: Yunseo Jeong, <strong>Seokjun Kwon</strong>, Jeongmin Shin, and Yukyung Choi
+    conference_short: IEEE Sensors
+    conference: IEEE Sensors Journal , 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11062481
+    code: https://github.com/sejong-rcv/ContraText-DETR
+    image: ./assets/img/publications/contratext_detr.png
+    notes: <strong>(SCIE / Q1 / IF 4.5)</strong>
+    
   - title: "Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation"
     authors: <strong>Seokjun Kwon*</strong>, Jeongmin Shin*, Namil Kim, Soonmin Hwang, and Yukyung Choi
     conference_short: ICRA
