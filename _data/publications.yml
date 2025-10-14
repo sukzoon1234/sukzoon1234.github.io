@@ -3,7 +3,7 @@ main:
   - title: "ContraText-DETR: Boosting Industrial Scene Text Detection Based on Contrastive Learning and Synthetic Low-Contrast Text"
     authors: Yunseo Jeong, <strong>Seokjun Kwon</strong>, Jeongmin Shin, and Yukyung Choi
     conference_short: IEEE Sensors
-    conference: IEEE Sensors Journal , Aug, 2025.
+    conference: IEEE Sensors Journal , Jul, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/11062481
     code: https://github.com/sejong-rcv/ContraText-DETR
     image: ./assets/img/publications/contratext_detr.png
