@@ -16,6 +16,7 @@ I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.
 
 ## News
 
+- **[Jul. 2025]** Our paper was accepted to **IEEE Sensors Journal**
 - **[Apr. 2025]** I join Robot Vision & Learning team intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group)
 - **[Jan. 2025]** Our paper was accepted to **ICRA 2025**
 - **[Nov. 2024]** I got awarded the **3rd Prize** at '[1st Autonomous Driving AI Challenge](https://auto-dna.org/page/?M2_IDX=32625)'. [\[Link\]](assets/files/2024_AI_Challenge.pdf)
