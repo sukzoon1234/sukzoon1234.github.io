@@ -9,10 +9,9 @@ I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.
 
 ## Research Interests
 
-- **Embodied AI:** Scene Perception in Robotics, Self-Driving
+- **Embodied AI:** Scene Perception & Navigation in Robotics, Self-Driving
 - **Robustness:** Domain Adaption/Generalization
 - **Vision-Language Model**
-- **Human-Interactive AI**
 
 ## News
 
