@@ -9,7 +9,7 @@ main:
     notes: 
     
   - title: "Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection"
-    authors: Sangin Lee*, <strong style="background-color: yellow; text-decoration: underline;">Seokjun Kwon1*</strong>, Jeongmin Shin, Namil Kim, and Yukyung Choi
+    authors: "Sangin Lee*, <strong style='background-color: yellow; text-decoration: underline;'>Seokjun Kwon*</strong>, Jeongmin Shin, Namil Kim, and Yukyung Choi"
     conference_short:
     conference: Under Review
     pdf: https://arxiv.org/html/2605.13140v1
