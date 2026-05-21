@@ -1,4 +1,21 @@
 main:
+  - title: "DensePR: Dense 3D Geometry-aware Visual Place Recognition"
+    authors: <strong>Seokjun Kwon</strong>, Jungwoo Kim, Yukyung Choi, and Sunwook Choi
+    conference_short: 
+    conference: Under Review
+    pdf: 
+    code: 
+    image: ./assets/img/publications/DensePR.png
+    notes: 
+    
+  - title: "Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection"
+    authors: Sangin Lee*, <strong>Seokjun Kwon*</strong>, Jeongmin Shin, Namil Kim, and Yukyung Choi
+    conference_short:
+    conference: Under Review
+    pdf: https://arxiv.org/html/2605.13140v1
+    code: 
+    image: ./assets/img/publications/MS-DePro.png
+    notes: 
 
   - title: "ContraText-DETR: Boosting Industrial Scene Text Detection Based on Contrastive Learning and Synthetic Low-Contrast Text"
     authors: Yunseo Jeong, <strong>Seokjun Kwon</strong>, Jeongmin Shin, and Yukyung Choi
