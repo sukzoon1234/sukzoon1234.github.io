@@ -8,10 +8,9 @@ Thanks for visiting my website!
 I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/). at Sejong University. (Advisor: Prof. [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en)).
 
 ## Research Interests
-
-- **Embodied AI:** Scene Perception & Navigation in Robotics, Self-Driving
-- **Robustness:** Domain Adaption/Generalization
-- **Vision-Language Model**
+- **Embodied AI:** Robust Scene Perception & Navigation in Robotics, Self-Driving
+- **Physical AI**: Vision-Language-Action (VLA) for Mobile Robots
+- **Robustness:** Domain Adaptation/Generalization for Real-World Deployment
 
 ## News
 
