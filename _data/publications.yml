@@ -3,7 +3,7 @@ main:
     authors: "<strong style='background-color: #fff68f; text-decoration: underline;'>Seokjun Kwon</strong>, Jungwoo Kim, Yukyung Choi, and Sunwook Choi"
     conference_short: 
     conference: Under Review
-    pdf: 
+    pdf: ./assets/files/DensePR_RAL_submitted.pdf
     code: 
     image: ./assets/img/publications/DensePR.png
     notes: 
