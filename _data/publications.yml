@@ -6,16 +6,16 @@ main:
     pdf: ./assets/files/DensePR_RAL_submitted.pdf
     code: 
     image: ./assets/img/publications/DensePR.png
-    notes: 
+    notes: <strong>(SCIE / Q1 / IF 4.5)</strong>
     
   - title: "Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection"
     authors: "Sangin Lee*, <strong style='background-color: #fff68f; text-decoration: underline;'>Seokjun Kwon*</strong>, Jeongmin Shin, Namil Kim, and Yukyung Choi"
-    conference_short:
-    conference: Under Review
+    conference_short: KBS
+    conference: Knowledge-Based Systems
     pdf: https://arxiv.org/html/2605.13140v1
-    code: 
+    code: https://github.com/sejong-rcv/MS-DePro
     image: ./assets/img/publications/MS-DePro.png
-    notes: 
+    notes: <strong>(SCIE / Q1 / IF 7.6)</strong>
 
   - title: "ContraText-DETR: Boosting Industrial Scene Text Detection Based on Contrastive Learning and Synthetic Low-Contrast Text"
     authors: "Yunseo Jeong, <strong style='background-color: #fff68f; text-decoration: underline;'>Seokjun Kwon</strong>, Jeongmin Shin, and Yukyung Choi"
