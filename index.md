@@ -14,6 +14,7 @@ I am a M.S student at [Robotics and Computer Vision Lab](https://www.rcv.sejong.
 
 ## News
 
+- **[Jun. 2026]** Our paper was accepted to **Knowledge-Based Systems**
 - **[Jul. 2025]** Our paper was accepted to **IEEE Sensors Journal**
 - **[Apr. 2025]** I join Robot Vision & Learning team intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group)
 - **[Jan. 2025]** Our paper was accepted to **ICRA 2025**
